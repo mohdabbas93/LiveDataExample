@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Live Data Example</string>
+    <string name="show_role">Show Role</string>
+</resources>
